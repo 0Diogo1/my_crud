@@ -4,7 +4,7 @@ Faça o download do projeto e execute npm install na pasta de front e back para 
 
 ## tecnologias usadas no projeto
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="center" alt="Di-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
           
           
 
