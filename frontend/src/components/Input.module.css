@@ -1,0 +1,28 @@
+.div_s{
+    display: flex;
+    flex-direction: column;
+    
+}
+input[type="submit"]{
+    width: 100%;
+    border-radius:5px;
+    height:45px;
+    font-size:22px;
+    font-weight: bold;
+    background-color: #FF8800;
+    color:#fff;
+    border-style: none;
+    margin-top:10px;
+    transition: .5s;
+}
+input[type="submit"]:hover{
+    background-color: #b86200;
+}
+input[type="text"]{
+    border-color:#2d343b;
+}
+.label_s{
+    color:#2d343b;
+        
+    font-size: 20px;
+}
