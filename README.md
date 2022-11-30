@@ -4,6 +4,7 @@ Faça o download do projeto e execute npm install na pasta de front e back para 
 
 ## tecnologias usadas no projeto
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          
           
 
